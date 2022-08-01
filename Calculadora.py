@@ -1,3 +1,4 @@
+#Para instalar a extensão que mostra os valores em um gráfico (matplotlib) coloque o comando '' pip install matplotlib '' no terminal
 import matplotlib.pyplot as plt
 import numpy as np
 
